@@ -1,0 +1,9 @@
+.image{
+    background-image: url("Nintendo-Switch-e1618004282562.jpg");
+    background-size: 500px 500px;
+    background-repeat: no-repeat
+};
+
+body{
+    font-weight: 500;
+}
